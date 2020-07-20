@@ -7,3 +7,11 @@ This Project uses the Spring Boot  2.3.1 version So We can dockerized the Applic
 mvn spring-boot:build-image
 
 There is no use of the Dockerfile now
+
+
+Application is residing in the Docker hub also
+you can pull it using
+
+docker pull niwas1711/mbshereapi
+
+
